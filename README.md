@@ -1,0 +1,2 @@
+# SkolaSajt
+Websajt za Skolu
